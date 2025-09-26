@@ -1,7 +1,7 @@
 body {
   font-family: Times New Roman, sans-serif;
   background: pink(135deg, #66cc00, #2575fc);
-  color: #fff;
+  color: #800080;
   text-align: center;
   height: 100vh;
   margin: 0;
@@ -43,4 +43,5 @@ button {
 button:hover {
   background: #e68900;
 }
+
 
