@@ -1,6 +1,6 @@
 body {
-  font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #66cc00, #2575fc);
+  font-family: Times New Roman, sans-serif;
+  background: pink(135deg, #66cc00, #2575fc);
   color: #fff;
   text-align: center;
   height: 100vh;
@@ -43,3 +43,4 @@ button {
 button:hover {
   background: #e68900;
 }
+
