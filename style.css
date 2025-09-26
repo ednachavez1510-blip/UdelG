@@ -1,7 +1,7 @@
 body {
   font-family: Times New Roman, sans-serif;
   background: linear-gradient(135deg, #66cc00, #2575fc);
-  color: #800080;
+  color: #800080fff;
   text-align: center;
   height: 100vh;
   margin: 0;
@@ -43,6 +43,7 @@ button {
 button:hover {
   background: #e68900;
 }
+
 
 
 
