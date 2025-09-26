@@ -6,7 +6,7 @@ const citas = [
   "Out of the Woods - 1989.",
   "Getaway Car - Reputation.",
   "False God - Lover.",
-  "The 1 - Folklore."
+  "The 1 - Folklore.",
 ];
 
 // Definimos la función que mostrará una cita aleatoria
@@ -21,4 +21,5 @@ function generarCita() {
   // Cambiamos su contenido de texto por la frase que corresponde al índice generado
   document.getElementById("quote").innerText = citas[indice];
 }
+
 
